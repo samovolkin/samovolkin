@@ -1,3 +1,5 @@
+##### Maksim Samovolkin - Senior Software Engineer at EPAM Systems
+
 #### Contacts
 [![Email](https://img.shields.io/badge/Email-samovolkinmaxim%40gmail.com-blue)](mailto:samovolkinmaxim@gmail.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?logo=Telegram)](https://t.me/samovolkin)
@@ -11,6 +13,9 @@
 [![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=Redis&logoColor=ffffff)](https://redis.io/)
 
 [![React.js](https://img.shields.io/badge/-React-292c34?logo=React&logoColor=61DAFB)](https://reactjs.org/)
-[![React Native](https://img.shields.io/badge/-React_Native-292c34?logo=React&logoColor=61DAFB)](https://reactjs.org/)
+[![React Native](https://img.shields.io/badge/-React_Native-292c34?logo=React&logoColor=61DAFB)](https://reactnative.dev/)
 
 [![Amazon Web Services](https://img.shields.io/badge/-Amazon_Web_Services-FF9900?logo=AmazonAWS)](https://aws.amazon.com)
+
+#### Languages
+🇬🇧<sub>English</sub> 🇷🇺<sub>Russian</sub>
