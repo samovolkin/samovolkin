@@ -11,6 +11,7 @@
 ![NodeJS](https://img.shields.io/badge/-Node.js-14161A?logo=Node.js)
 [![Postgres](https://img.shields.io/badge/-PostgreSQL-336791?logo=PostgreSQL&logoColor=ffffff)](https://www.postgresql.org/)
 [![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=Redis&logoColor=ffffff)](https://redis.io/)
+[![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=ffffff)](https://www.docker.com/)
 
 [![React.js](https://img.shields.io/badge/-React-292c34?logo=React&logoColor=61DAFB)](https://reactjs.org/)
 [![React Native](https://img.shields.io/badge/-React_Native-292c34?logo=React&logoColor=61DAFB)](https://reactnative.dev/)
