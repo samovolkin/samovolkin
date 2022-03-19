@@ -1,6 +1,7 @@
 ##### Maksim Samovolkin - Senior Software Engineer at EPAM Systems
 
 #### Contacts
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn)](https://linkedin.com/in/samovolkin)
 [![Email](https://img.shields.io/badge/Email-samovolkinmaxim%40gmail.com-blue)](mailto:samovolkinmaxim@gmail.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?logo=Telegram)](https://t.me/samovolkin)
 
