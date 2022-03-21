@@ -31,6 +31,7 @@
 [![Gatsby](https://img.shields.io/badge/-Gatsby-663399?logo=Gatsby)](https://www.gatsbyjs.com/)
 [![Webpack](https://img.shields.io/badge/-Webpack-2e3941?logo=Webpack)](https://webpack.js.org/)
 [![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=Redux)](https://redux.js.org/)
+[![Reselect](https://img.shields.io/badge/-Reselect-2e3941?logo=Redux)](https://github.com/reduxjs/reselect)
 [![PixiJS](https://img.shields.io/badge/-PixiJS-d93d64)](https://pixijs.com/)
 [![Ant Design](https://img.shields.io/badge/-Ant_Design-0170FE?logo=AntDesign)](https://ant.design/)
 [![Material Design](https://img.shields.io/badge/-Material_Design-757575?logo=MaterialDesign&logoColor=ffffff)](https://material.io/design)
