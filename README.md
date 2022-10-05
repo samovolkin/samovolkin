@@ -1,4 +1,4 @@
-##### Maksim Samovolkin - Senior Software Engineer
+##### Maksim Samovolkin
 
 #### Contacts
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn)](https://linkedin.com/in/samovolkin)
