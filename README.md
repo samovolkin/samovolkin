@@ -1,5 +1,9 @@
 ##### Maksim Samovolkin
 
+#### Title
+![Lead Software Engineer](https://img.shields.io/badge/-Lead_Software_Engineer-14161A)
+![Delivery Manager](https://img.shields.io/badge/-Delivery_Manager-14161A)
+
 #### Contacts
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn)](https://linkedin.com/in/samovolkin)
 [![Email](https://img.shields.io/badge/Email-samovolkinmaxim%40gmail.com-blue?logo=Gmail)](mailto:samovolkinmaxim@gmail.com)
